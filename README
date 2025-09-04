@@ -1,0 +1,21 @@
+# 📂 Arsip Praktikum Algoritma & Teknik Pemrograman
+
+Repository ini berisi kumpulan **source code praktikum** dari mata kuliah **Algoritma dan Teknik Pemrograman (ATP)**.  
+Semua kode ditujukan untuk **pembelajaran dasar pemrograman** dan implementasi algoritma.
+
+---
+
+## 🗂️ Struktur Folder
+
+```bash
+/praktikum-atp
+├── modul-01/   # Pengenalan & dasar pemrograman
+├── modul-02/   # Percabangan
+├── modul-03/   # Perulangan
+├── modul-04/   # Array & string
+├── modul-05/   # Fungsi & prosedur
+├── modul-06/   # Pointer & rekursi
+├── modul-07/   # Struktur data dasar
+├── tugas/       # Kumpulan tugas/latihan tambahan
+├── uts/         # Arsip latihan UTS
+└── uas/         # Arsip latihan UAS
